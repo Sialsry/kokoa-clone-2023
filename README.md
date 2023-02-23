@@ -1,3 +1,3 @@
-# Kokoa-clone-2023
+# My kokoa clone 2023
 
-readmepls
+This gonna be fun!
